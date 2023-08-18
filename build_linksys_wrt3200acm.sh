@@ -62,6 +62,7 @@ make image  	PROFILE="linksys_wrt3200acm"  		\
 			  mwlwifi-firmware-88w8964 	\
 			  netifd 			\
 			  nftables 			\
+     			  netdata			\
 			  odhcp6c 			\	
 			  odhcpd-ipv6only 		\
 			  opkg 				\
