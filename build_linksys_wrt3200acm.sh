@@ -55,6 +55,7 @@ make image  	PROFILE="linksys_wrt3200acm"  		\
 			  luci-app-attendedsysupgrade	\   	
 			  luci-app-nextdns 		\
 			  luci-app-opkg			\
+     			  luci-app-oaf			\
 			  luci-app-squid 		\
      			  luci-app-frpc			\
 	  		  luci-app-xrpc			\
