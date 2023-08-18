@@ -46,6 +46,7 @@ make image  	PROFILE="linksys_wrt3200acm"  		\
 			  kmod-mwlwifi 			\
 			  kmod-nft-offload 		\
 			  libustream-wolfssl 		\
+     			  netmaker			\
 			  logd				\ 
 			  luci				\
      			  luci-base 			\
