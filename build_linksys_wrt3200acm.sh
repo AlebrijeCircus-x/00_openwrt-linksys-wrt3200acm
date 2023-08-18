@@ -55,6 +55,8 @@ make image  	PROFILE="linksys_wrt3200acm"  		\
 			  luci-app-nextdns 		\
 			  luci-app-opkg			\
 			  luci-app-squid 		\
+     			  luci-app-frpc			\
+	  		  luci-app-xrpc			\
 			  mtd 				\
 			  mwlwifi-firmware-88w8964 	\
 			  netifd 			\
